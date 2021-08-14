@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tugas.uasAKB_10118351">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tour"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TUGAS_UAS_10118351">
+        <activity android:name="com.tugas.uasAKB_10118351.View.WisataActivity"></activity>
+
+        <activity android:name="com.tugas.uasAKB_10118351.View.ListActivity" />
+
+        <activity android:name="com.tugas.uasAKB_10118351.View.ViewPagerActivity" />
+        <activity android:name="com.tugas.uasAKB_10118351.View.MainActivity" />
+        <activity android:name="com.tugas.uasAKB_10118351.View.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBZ3hQSfpVBIFFq0zVVhAqii9CeNNZVAG4" />
+    </application>
+
+</manifest>
