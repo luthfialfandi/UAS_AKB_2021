@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "988356583328",
-    "firebase_url": "https://uas-10118312-default-rtdb.firebaseio.com",
-    "project_id": "uas-10118312",
-    "storage_bucket": "uas-10118312.appspot.com"
+    "project_number": "753089820144",
+    "firebase_url": "https://tugas-uas-akb-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-uas-akb-2021",
+    "storage_bucket": "tugas-uas-akb-2021.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:988356583328:android:3f80438796981a04218ec5",
+        "mobilesdk_app_id": "1:753089820144:android:e5db281619a868d2a81935",
         "android_client_info": {
           "package_name": "com.tugas.uasAKB_10118351"
         }
       },
       "oauth_client": [
         {
-          "client_id": "988356583328-ifr5chdb9rqnbrg9i2vdqnk78q9915ep.apps.googleusercontent.com",
+          "client_id": "753089820144-q7393jp3fub3bdm5riaqgc71e22hk3s3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAUC0ZLocnmKQFiKkap3iOh2Syw6ew2pFg"
+          "current_key": "AIzaSyBWjdpDO0Gg1Bd5mffHk88vqMnUyLz5Ydk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "988356583328-ifr5chdb9rqnbrg9i2vdqnk78q9915ep.apps.googleusercontent.com",
+              "client_id": "753089820144-q7393jp3fub3bdm5riaqgc71e22hk3s3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
